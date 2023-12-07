@@ -1,0 +1,191 @@
+body{
+    background-image: url("/sunder-muthukumaran-I4eKHN1KaZ0-unsplash.jpg");
+    height: 900px;
+    background-size: cover;
+}
+
+.header{
+    display: flex;
+    border-radius: 10px;
+  
+}
+
+.dropdown{
+    display: flex;
+    height: 40px;
+    width: 100%;
+    margin-top: 50px;
+    margin-right:10px;
+    justify-content: flex-end;
+    
+    
+}
+
+.signin{
+    display: flex;
+    height: 40px;
+    margin-top: 50px;
+    width:10%;
+    margin-right: 40px;
+   
+}
+
+.dropdown-menu{
+    background-color: whitesmoke;
+}
+
+.dropdown-toggle{
+    background-color: #1d0f0f;
+}
+
+.btn-primary{
+    background-color: #e50914;
+    border: none;
+}
+
+.btn-primary:hover{
+    background-color: #95040c;
+}
+
+.display-line{
+    color: white;
+    line-height: 0.2;
+}
+
+.dis{
+    margin-top: 200px;
+    margin-left: 90px;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.dis1{
+    margin-left: 90px;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.dis2{
+    margin-left: 90px;
+
+}
+
+.email-text{
+    margin-left: 90px;
+    color: #989898;
+}
+
+.mb-3{
+    width: 24%;
+    height: 100px;
+    margin-left: 90px;
+    margin-right: 10px;
+}
+
+.mb-3 input{
+    height: 60px;
+    background-color: transparent;
+}
+.email{
+    display: flex;
+}
+.get-started button{
+    height: 60px;
+    width: 200px;
+    display: flex;
+}
+
+.get-started-text{
+    font-weight: 600;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+.get-started i{
+    margin-top: 10px;
+}
+
+.mb-3 input:hover{
+
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+.card{
+    background-color: #1d0f0f;
+    background-image: url("/sincerely-media-aUPLLA6o_3I-unsplash.jpg");
+    background-size: cover;
+    width:310px;
+    height: 240px;
+    
+}
+
+.card-title{
+    font-weight: 700;
+    color:whitesmoke
+}
+
+.card-text{
+    color: #989898;
+}
+
+
+.card-icon{
+    
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-right: 10px;
+}
+.card-icon i{
+    font-size: 70px;
+}
+
+content{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: 410px;
+    margin-left: 70px;
+    margin-right:50px
+}
+
+.card-title1{
+    margin-left:55px ;
+    color: #f5f5f5;
+    margin-bottom: 10px;
+}
+
+.main-text{
+    color: whitesmoke;
+}
+
+.btn-group{
+    width: 70%;
+    height: 80px;
+    margin-bottom: 10px;
+    margin-left: 90px;
+
+}
+
+.main-box-text{
+    display: flex;
+    font-size: 1.7rem;
+    padding-left: 20px;
+}
+
+.frequent{
+    margin-top: 80px;
+    margin-left: 90px;
+    margin-bottom: 10px;
+}
+
+main{
+    margin-bottom: 5px;
+}
+
+.btn-secondary:hover {
+    background-color: #881717; /* Change to the color you desire */
+}
